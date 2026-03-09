@@ -37,5 +37,6 @@ tzdata==2025.3
 urllib3==2.6.3
 watchdog==6.0.0
 joblib
-scikit-learn
+scikit-learn==1.6.1
+
 
